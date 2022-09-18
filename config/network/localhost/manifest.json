@@ -13,8 +13,11 @@
         "user": [
             "login admin@admin"
         ],
-        "admin": [
+        "Agent": [
             "ping fbi.gov"
         ]
+		"Admin": [
+		    "ping majesty12"
+		]
     }
 }
