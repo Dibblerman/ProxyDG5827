@@ -1,12 +1,12 @@
 {
-    "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverAddress": "107.210.124.135",
+    "serverName": "Proxy-DG-5827",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "DG56",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "anonymous"
+        "userName": "Candidate"
     },
     "randomSeed": true,
     "initialHistory": {
